@@ -17,4 +17,4 @@ lucky_numbers.reverse()
 print(friends)
 print(lucky_numbers)
 
-print ("Code might not work. This is just a summary of list functions")
+#Code might not work. This is just a summary of list functions
